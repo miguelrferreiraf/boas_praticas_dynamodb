@@ -1,4 +1,4 @@
-# Projeto Boas práticas com DynamoDB
+# Projeto boas práticas com DynamoDB
 
 Projeto do bootcamp geraçao tech, da Unimed
 
